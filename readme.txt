@@ -32,7 +32,7 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload `motif-wp-them-switcher` to the `/wp-content/plugins/` directory
+1. Upload `motif-wp-theme-switcher` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Once the plugin is activated goto your blog's Design or Appearance section and click on Motif WP Theme Switcher to turn on and assign themes for each day.
 
