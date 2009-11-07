@@ -3,7 +3,7 @@ Contributors: Penuel
 Tags: themes, automatic switcher
 Requires at least: 2.5
 Tested up to: 2.8.5
-Stable tag: Trunk
+Stable tag: trunk
 
 Motif WordPress Theme Switcher, changes the themes of your WordPress blog automatically everyday. 
 
