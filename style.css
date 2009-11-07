@@ -1,0 +1,7 @@
+.theme{background-color:#999966;}
+#theme_shot_container{float:left}
+#theme_shot_container .clr{clear:both}
+.motif_theme_shot{float:left; border:1px solid #ccc; margin:5px 2px; text-align:center; width:305px; height:305px}
+.motif_theme_shot img{border:1px solid #eee; width:300px; height:225px;}
+.motif_theme_shot .days_container{display:block; margin:5px auto; width:200px; border:0px solid #0f0}
+.motif_theme_shot .day{float:left; border:0px solid #f00; margin:0px 2px}
